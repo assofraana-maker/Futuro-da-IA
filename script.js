@@ -6,41 +6,41 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Atualmente o hábito de leitura não é comum entre os jovens, a leitura é algo importânte para a formação desses jovens?",
+        enunciado: "A Inteligência Artificial vai melhorar a vida das pessoas no futuro?",
         alternativas: [
             {
-                texto: "Sim, já que, além de inumeros livros servirem de base para vestibulares, eles podem trazer conhecimentos de assuntos diversos e expandir o vacabulario do leitor",
-                afirmacao: "Os livros ainda são de uma grande importância para os estudos e para a formação da etica e moral da população, sendo sem dúvidas um grande alicerce da sociedade."
+                texto: "Sim, já que a Inteligência Artificial poderá facilitar diversas tarefas do cotidiano, auxiliar na medicina, melhorar a educação e contribuir para o desenvolvimento de novas tecnologias."",
+                afirmacao: "A IA possui um grande potencial para transformar positivamente a sociedade, desde que seja utilizada de maneira ética, responsável e voltada para o benefício da população."
             },
             {
-                texto: "A leitura é indiferente, já que, atualmente não são necessarios livros para os estudos ou enterterimento, já que, atualmente não são necessarios livros para estudos levando em conta que hoje é possível encomtrar ambos nas redes sociais",
-                afirmacao: "Apesar do grande acesso a informaçõese conteúdos que as redes sociais nos proporcionam, os livros não deixam de ser essenciais na sociedade seja para estudos ou para obter conhecimento."
+                texto: "Não necessariamente, pois o avanço da Inteligência Artificial também pode causar problemas como desemprego, dependência tecnológica, disseminação de informações falsas e perda de privacidade.",
+                afirmacao: "Apesar de seus benefícios, a IA pode trazer consequências negativas para a sociedade caso seu desenvolvimento e sua utilização não sejam acompanhados por regras e responsabilidade."
             }
         ]
     },
     {
-        enunciado: "Algumas pessoas tem muita dificuldade para começarem no mundo da leitura, dito isso qual seria a maneira mais recomendada para se começar a ler?",
+        enunciado: "A Inteligência Artificial poderá substituir os seres humanos em muitos empregos no futuro?",
         alternativas: [
             {
-                texto: "Ler livros pequenos, de facíl entendimento e que sejam de assuntos de interesse do leitor.",
-                afirmacao: "Para quem não  tem o hábito de ler, porém tem vontadede iniciar no mundo da leitura o mais indicado seria ler livros pequenos e de assuntos que sejam de interesse do leitor para despertar o interesse da leitura e tornar a mesma um habito."
+                texto: "Sim, principalmente em trabalhos repetitivos ou perigosos, permitindo que os seres humanos tenham mais tempo para atividades criativas, estratégicas e que exigem habilidades sociais.",
+                afirmacao: "A substituição de determinadas tarefas pela IA pode representar uma evolução no mercado de trabalho, fazendo com que as pessoas se concentrem em funções que dependem mais da criatividade e do pensamento crítico."
             },
             {
-                texto: "Ler livros didáticos e de autores conhecidos.",
-                afirmacao: "Para quem tem interessede começar na leitura não seria ideal começar diretamente pelos clássicos já que a leitura dos mesmos pode ser mais dificil dificultando assim a criação do habito da leitura."
+                texto: "Sim, porém isso pode gerar consequências negativas, já que muitas pessoas poderão perder seus empregos caso não tenham acesso a novas oportunidades de capacitação profissional.",
+                afirmacao: "O avanço da IA no mercado de trabalho pode aumentar a desigualdade social se não houver investimentos em educação e qualificação para preparar os trabalhadores para as novas profissões."
             }
         ]
     },
     {
-        enunciado: "Atualmente vemos um grande aumentos nos valores dos livros físicos, oque dificulta a aquisição dos mesmos, a leitura digital vem se popularizou entre os leitores nos ultimos anos em parte pelos preços mais acessiveis, então seria ela uma alternativa viavel aos livros físicos?",
+        enunciado: "A Inteligência Artificial poderá tornar o futuro melhor para a humanidade?",
         alternativas: [
             {
-                texto: "Provavelmente, já que iria possibilitar uma maior aquisição por parte da população.",
-                afirmacao: "Já para quem não  tem condições de adquirir livros físicos os livros online são uma otima opção, pois permite a aquisição dos mesmos por um preço muito menor ou até mesmo gratuitamente, o que sem duvidas pode abrir grandes portas para esses leitores."
+                texto: "Sim, pois a IA poderá contribuir para descobertas científicas, tratamentos médicos, preservação do meio ambiente e desenvolvimento de soluções para diversos problemas da sociedade.",
+                afirmacao: "Quando utilizada de forma consciente e responsável, a Inteligência Artificial pode se tornar uma importante ferramenta para o progresso da humanidade e para a construção de um futuro melhor."
             },
             {
-                texto: "Não teria grande importância já que grande parte da população continuaria adquirindo livros físicos apesar dos preços.",
-                afirmacao: "Apesar do consumo de livros físicos ainda ser maioria os livros oline permitem que pessoas que não podem adquirir livros físicos tenham acesso a leitura, podendo gerar grandes oportunidades para esses leitores."
+                texto: "Não necessariamente, pois a IA também pode ser utilizada para fins prejudiciais, como manipulação de informações, vigilância excessiva, golpes virtuais e desenvolvimento de tecnologias perigosas.",
+                afirmacao: "O futuro proporcionado pela Inteligência Artificial dependerá da maneira como essa tecnologia será utilizada, sendo necessário estabelecer limites para evitar que seus avanços causem danos à sociedade."
             }
         ]
     },
